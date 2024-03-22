@@ -1,4 +1,4 @@
-# The Hoosier Ellipsis Corpus - LANGUAGE Sub-corpus
+# The Hoosier Ellipsis Corpus - Telugu Sub-corpus
 
 Created by [Damir Cavar], 03/18/2024
 
