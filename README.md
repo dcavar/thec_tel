@@ -1,16 +1,18 @@
-# The Hoosier Ellipsis Corpus (THEC) - LANGUAGE Sub-corpus (thec_deu)
+# The Hoosier Ellipsis Corpus (THEC) - Telugu Sub-corpus (thec_tel)
 
 (C) 2024 [NLP-Lab]
 
 More details about the [Hoosier Ellipsis Corpus] can be found on the [NLP-Lab] pages. The [GitHub repo](https://github.com/dcavar/hoosierellipsiscorpus) contains links to other languages and useful code and scripts for data processing.
 
-This repo contains the LANGUAGE Ellipsis Sub-corpus of THEC.
+This repo contains the Telugu Ellipsis Sub-corpus of THEC.
 
 Consult the [data format specification](https://nlp-lab.org/ellipsis/data_format) for details about the structure of the files and the annotation standard used.
 
 
 ## Maintainer
-- 
+
+- Koushik Reddy Parukola
+- Tanmayi Balla
 - [Damir Cavar]
 
 
