@@ -12,7 +12,7 @@ Consult the [data format specification](https://nlp-lab.org/ellipsis/data_format
 ## Maintainer
 
 - Koushik Reddy Parukola
-- Tanmayi Balla
+- [Tanmayi Balla](https://www.linkedin.com/in/tanmayiballa)
 - [Damir Cavar]
 
 
